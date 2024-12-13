@@ -62,18 +62,19 @@ Follow these steps to set up the application on your local machine:
 ## Usage
 ### Searching for Books
 1. Enter a search term (e.g., title, author, or genre) in the search bar on the main page.
-![img](CA2WebApp/imgs/main1.png)
-
 2. Click the **Search** button to display books fetched from the Google Books API.
+![img](imgs/main1.png)
 
 ### Managing the Wishlist
 1. Click **Add to Wishlist** to save a book to your personal wishlist.
 2. Navigate to the **Wishlist** page to view all added books.
 3. Use the **Delete** button to remove books from your wishlist.
 4. Click **Buy** to visit Amazon and purchase the book.
+![img](imgs/wishlist1.png)
 
 ### Visualizing Genres
 On the wishlist page, view a dynamic pie chart that displays the distribution of books by genre in your wishlist.
+![img](imgs/graph.png)
 
 ## Contributing
 Contributions are welcome! If you'd like to improve this project, follow these steps:
