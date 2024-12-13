@@ -26,8 +26,8 @@ Follow these steps to set up the application on your local machine:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/google-books-wishlist.git
-   cd google-books-wishlist
+   git clone https://github.com/yourusername/Book-Wishlist.git
+   cd CA2WebApp
    ```
 
 2. **Install Dependencies**:
