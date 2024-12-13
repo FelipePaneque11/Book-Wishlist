@@ -1,0 +1,74 @@
+[
+  {
+    "title": "1984",
+    "authors": "George Orwell",
+    "categories": "Fiction",
+    "imageLink": "http://books.google.com/books/content?id=uyr8BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "authors": "J.K. Rowling",
+    "categories": "Juvenile Fiction",
+    "imageLink": "http://books.google.com/books/content?id=wHlDzHnt6x0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "title": "The Shining",
+    "authors": "Stephen King",
+    "categories": "Fiction",
+    "imageLink": "http://books.google.com/books/content?id=zVq8BF_5vSUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "title": "The Great Gatsby",
+    "authors": "Francis Scott Fitzgerald",
+    "categories": "Fiction",
+    "imageLink": "http://books.google.com/books/content?id=HestSXO362YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "title": "Shakespeare and Ireland",
+    "authors": "Mark Thornton Burnett, Ramona Wray",
+    "categories": "Literary Criticism",
+    "imageLink": "http://books.google.com/books/content?id=PUyvCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "title": "Clean Code",
+    "authors": "Robert C. Martin",
+    "categories": "Computers",
+    "imageLink": "http://books.google.com/books/content?id=_i6bDeoCQzsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "authors": "John Ronald Reuel Tolkien, Christina Scull",
+    "categories": "Fiction",
+    "imageLink": "http://books.google.com/books/content?id=IGvdhaVC5QwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "title": "The Hobbit",
+    "authors": "J.R.R. Tolkien",
+    "categories": "Fiction",
+    "imageLink": "http://books.google.com/books/content?id=zEK0ewyRMn4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "title": "It",
+    "authors": "Stephen King",
+    "categories": "Fiction",
+    "imageLink": "http://books.google.com/books/content?id=iCWgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "title": "The Hunger Games",
+    "authors": "Suzanne Collins",
+    "categories": "Juvenile Fiction",
+    "imageLink": "http://books.google.com/books/content?id=_zSzAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "authors": "Stephen Chbosky",
+    "categories": "Fiction",
+    "imageLink": "http://books.google.com/books/content?id=pK0X5FyUs28C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "title": "Designing Web APIs",
+    "authors": "Brenda Jin, Saurabh Sahni, Amir Shevat",
+    "categories": "Computers",
+    "imageLink": "http://books.google.com/books/content?id=Dg1rDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  }
+]

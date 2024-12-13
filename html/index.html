@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Books Wishlist</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+      <h1>Google Books Wishlist</h1>
+      <a href="wishlist.html">Wishlist</a>
+      <a href="dashboard.html">Dashboard</a>
+      <a href="index.html">Home</a>
+  </header>
+
+  <main>
+    <div class="search-container">
+      <input type="text" id="search-input" placeholder="Search for books / author">
+      <button id="search-button">Search</button>
+    </div>
+</main>
+
+  <section class="info-section">
+    <div class="card">
+      <h3>Search for Books</h3>
+      <p>Use the search bar above to find books or authors from the Google Books API. Type in your query and click
+        "Search" to get results.</p>
+    </div>
+    <div class="card">
+      <h3>Add to Wishlist</h3>
+      <p>Found a book you like? Click "Add to Wishlist" next to the book to save it for later. View your saved books on
+        the <a href="wishlist.html">Wishlist</a> page.</p>
+    </div>
+    <div class="card">
+      <h3>Manage Your Wishlist</h3>
+      <p>Visit the <a href="wishlist.html">Wishlist</a> page to see all saved books. You can delete books you no longer want or revisit their details
+        anytime.</p>
+    </div>
+  </section>
+
+
+
+    <div class="results" id="results"></div> <!--books will be dinamically displayed here-->
+    
+
+    <footer>
+        <p>&copy; 2024 Google Books API Project</p>
+    </footer>
+    <script src="/script.js"></script>
+</body>
+</html>
